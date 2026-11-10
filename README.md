@@ -32,7 +32,20 @@
 | `analyze.py` | 结果统计与对比图 |
 | `generate_figures.py` | 说明文档插图生成 |
 | `评测结果/public_summary.json` | 公开集逐题结果（success rate、深度、两比特门数、编译耗时） |
-| `docs/作品说明文档.pdf` | 完整作品说明文档（21 页） |
+| [docs/作品说明文档.md](docs/作品说明文档.md) | 可直接阅读的完整图片版（21 页） |
+| [docs/作品说明文档.pdf](docs/作品说明文档.pdf) | 原始 PDF（21 页） |
+
+## 作品说明文档
+
+[**直接阅读完整文档（21 页）**](docs/作品说明文档.md) · [下载原始 PDF](https://raw.githubusercontent.com/Dsegnr/ccf-quantum-compiler/main/docs/%E4%BD%9C%E5%93%81%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.pdf)
+
+### 编译器流水线
+
+[![编译器流水线与方法说明，原文第 6 页](docs/preview/page-06.png)](docs/作品说明文档.md#page-06)
+
+### 实验结果
+
+[![综合评分与实验结果，原文第 12 页](docs/preview/page-12.png)](docs/作品说明文档.md#page-12)
 
 ## 运行
 
